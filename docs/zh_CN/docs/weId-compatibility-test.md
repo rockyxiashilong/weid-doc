@@ -74,3 +74,15 @@ WARNING: Illegal reflective access by io.netty.util.internal.ReflectionUtil (fil
 WARNING: Please consider reporting this to the maintainers of io.netty.util.internal.ReflectionUtil
 WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
 WARNING: All illegal access operations will be denied in a future release
+
+### apt-get Open JDK 各版本的兼容性 (推荐使用)
+
+| apt-get Open JDK版本 | 测试结果          |
+| ---------- | ---------- |
+| 1.8.0_242  | 安装成功✅ |
+| 9.0.4      | 安装成功✅|
+| 10.0.2     | 安装成功 ✅|
+| 11.0.5     | 安装成功✅|
+| 12.0.2     | 安装成功 ✅|
+| 13         | 安装成功 ✅|
+
